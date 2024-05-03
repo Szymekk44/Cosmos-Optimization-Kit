@@ -24,3 +24,6 @@ We have prepared tricks for you that will improve the performance of your system
     You don't believe? Check on your own!<br>
     ISO is at the very top.
 </p><br>
+
+### How does it work?
+### [Check out here!](https://github.com/SzymekkYT/Cosmos-Optimization-Kit/tree/main/Cobalt)
