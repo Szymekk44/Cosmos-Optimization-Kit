@@ -1,6 +1,6 @@
 <p align="center">
  <picture>
-    <source srcset="Artwork/Cobalt.png">
+    <source srcset="../Artwork/Cobalt.png">
     <img width=65%>
   </picture>
 </p><br>
