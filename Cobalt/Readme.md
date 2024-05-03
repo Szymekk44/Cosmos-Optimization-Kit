@@ -19,7 +19,7 @@ We can cache every TTF character!
 This is probably the best method for drawing text.
 Note that this is based on canvas caching, its really powerful!
 > [!NOTE]
-> Remember that the text will be drawn WITH the sold color background, if you want to draw it on images like wallpaper, it won't work.<br>
+> Remember that the text will be drawn WITH the solid color background (Remember that you can create cache with multiple backgrounds!), if you want to draw it on images like wallpaper, it won't work.<br>
 > You can still use first method.
 
 ## Heap.Collect()
