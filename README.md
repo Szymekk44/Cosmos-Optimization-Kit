@@ -15,3 +15,12 @@
 You've come to the right place!
 We have prepared tricks for you that will improve the performance of your system. For easier implementation and explanation, you will find a special system here - Cobalt, which will show you exactly how everything works!
 ## You can find optimization scripts here: Cobalt\Cobalt\OptimizationKit
+<p align="center">
+ <picture>
+    <source srcset="Artwork/FPS.png">
+    <img width=30%>
+  </picture>
+ <br>
+    You don't believe? Check on your own!<br>
+    ISO is at the very top.
+</p><br>
