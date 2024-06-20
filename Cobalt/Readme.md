@@ -27,3 +27,7 @@ Instead of calling Heap.Collect() every frame, we can do it every 4th frame. Tha
 You can check many settings, but we do not recommend going above 20. Then there is a lot of fps, but it stops being smooth because Heap.Collect starts to take a lot of time.
 > [!IMPORTANT]
 > Completely removing Heap.Collect() may cause a temporary increase in FPS, but your system will crash after a short while.
+
+# How do i add everything to my OS?
+Just copy files from [here](https://github.com/SzymekkYT/Cosmos-Optimization-Kit/tree/main/Cobalt/Cobalt/OptimizationKit), change Heap.Collect() and switch to cached TTF!<br>
+Here's a good example of alpha caching [Alpha Image Renderer](https://github.com/SzymekkYT/Cosmos-Optimization-Kit/blob/main/Cobalt/Cobalt/Apps/AlphaImageRenderer.cs)
