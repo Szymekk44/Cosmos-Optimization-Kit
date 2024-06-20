@@ -29,5 +29,13 @@ We have prepared tricks for you that will improve the performance of your system
     ISO is at the very top.
 </p><br>
 
+# What is it capable of?
+<p align="center">
+ <picture>
+    <source srcset="Artwork/radianceos%207%20preview.png">
+    <img width=75%>
+  </picture>
+</p>
+
 ### How does it work?
 ### [Check out here!](https://github.com/SzymekkYT/Cosmos-Optimization-Kit/tree/main/Cobalt)
