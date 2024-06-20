@@ -18,7 +18,7 @@
 ## Would you like to speed up and increase the capabilities of your Cosmos-based operating system?
 You've come to the right place!
 We have prepared tricks for you that will improve the performance of your system. For easier implementation and explanation, you will find a special system here - Cobalt, which will show you exactly how everything works!
-## You can find optimization scripts here: Cobalt\Cobalt\OptimizationKit
+## You can find optimization scripts here: [Cobalt\Cobalt\OptimizationKit](https://github.com/SzymekkYT/Cosmos-Optimization-Kit/tree/main/Cobalt/Cobalt/OptimizationKit)
 <p align="center">
  <picture>
     <source srcset="Artwork/FPS.png">
