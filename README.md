@@ -39,3 +39,5 @@ We have prepared tricks for you that will improve the performance of your system
 
 ### How does it work?
 ### [Check out here!](https://github.com/SzymekkYT/Cosmos-Optimization-Kit/tree/main/Cobalt)
+
+### Give a star if you like it! Thanks!
