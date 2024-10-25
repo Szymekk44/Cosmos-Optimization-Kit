@@ -15,6 +15,11 @@
   <img src="https://img.shields.io/badge/Download the latest ISO-gray?style=for-the-badge" alt="Latest ISO">
 </a>
 
+> [!WARNING]
+> **This OS and all caching methods are outdated.**<br>
+> In the future, it is possible that the system will be updated with more examples and useful features.<br>
+> Please leave a star if you are interested!
+
 ## Would you like to speed up and increase the capabilities of your Cosmos-based operating system?
 You've come to the right place!
 We have prepared tricks for you that will improve the performance of your system. For easier implementation and explanation, you will find a special system here - Cobalt, which will show you exactly how everything works!
